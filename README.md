@@ -1,4 +1,4 @@
-sparks.js
+Sparks.js
 =========
 #### Simple 3D Javascript Particles Engine ####
 
@@ -13,9 +13,4 @@ Sparks.js welcome feature and pull requests, so don't be shy to fork away!
 It uses [three.js](https://github.com/mrdoob/three.js) for Vector classes and rendering and ease functions from [tween.js](https://github.com/sole/tween.js/).
 
 #Demos Online#
-http://jabtunes.com/labs/arabesque/
-
-#Examples Online#
-[![Particle Tests](http://i54.tinypic.com/im6ivo.png)](http://jsdo.it/zz85/27tB/fullscreen)
-
-[Brillance Particles + Custom Shapes](http://jsdo.it/zz85/x8Gf)
+https://akdavis83.github.io/Particles1/
